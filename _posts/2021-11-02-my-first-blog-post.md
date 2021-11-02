@@ -1,4 +1,4 @@
-title: AFzal
+title: "My first post blog"
 
 date: 2021-11-02
-My first post blog
+
